@@ -10,5 +10,11 @@
         "key": "key67890",
         "expirydate": "15-06-2025",
         "Allowoffline": false
+    },
+    {   
+         "device_id": "e4afac38bfe30683",
+        "key": "Ripto10",
+        "expirydate": "26-010-2025",
+        "Allowoffline": false
     }
-      ]
+]
